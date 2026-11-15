@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Active Quest On Top
+## Title-zhTW: 作用中任務置頂
+## Notes-zhTW: 讓目前專注/選取的任務永遠顯示在任務追蹤列表最上方。
+## Notes: Keeps the active quest at the top of the quest tracker.
+## Author: Ayane Chiang
+## Version: 0.1.0
+## SavedVariables: ActiveQuestOnTopDB
+
+ActiveQuestOnTop.lua
